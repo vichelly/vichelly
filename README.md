@@ -14,7 +14,6 @@
   <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py">
   <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html">
   <img height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS">
-  <img align="right" width="250" height="160" alt="ultra" src="https://c.tenor.com/ysA6Dal3lVQAAAAC/ultraman-beam.gif">
  </div>
  <br>
  <div>
