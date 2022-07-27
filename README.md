@@ -1,8 +1,5 @@
 <h1>Olá meu nome é Vitor Lucas Fujita Felício 👾</h1>
-
-- 👨‍💻 Primeiro semestre de CS
 - 🌱 Busco sempre aprender
-- 💼 Procuro um estágio 
 <br>
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vichelly&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
