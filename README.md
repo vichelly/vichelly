@@ -1,7 +1,5 @@
 <h1>Vitor Lucas Fujita Felício :space_invader:</h1>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
  <div>
  <br>
  <h3>Languages and Tools</h3>
