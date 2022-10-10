@@ -1,6 +1,8 @@
 <h1>Vitor Lucas Fujita Felício 👾</h1>
 <br>
- <div style="display: inline_block">
+ <div>
+ [![Vitor Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichelly&layout=compact)](https://github.com/vichelly/github-readme-stats)
+ <br>
  <h3>Languages and Tools</h3>
   <br>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py">
