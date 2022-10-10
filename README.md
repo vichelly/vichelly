@@ -1,7 +1,7 @@
 <h1>Vitor Lucas Fujita Felício 👾</h1>
 <br>
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api username=vichelly&show_icons=true&theme=radical)
  <div>
- ![Vitor Top Langs](https://github-readme-stats.vercel.app/api??username=vichelly&show_icons=true&theme=radical)
  <br>
  <h3>Languages and Tools</h3>
   <br>
