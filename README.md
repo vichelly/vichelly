@@ -1,7 +1,8 @@
 ## Olá! Eu sou o Vitor Lucas Fujita Felício 🖐️
 
-### Tecnologias que eu uso no meu dia a dia
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichelly&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### Tecnologias que eu uso no meu dia a dia <hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichelly&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br> <hr>
+![Vichelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=vichelly&show_icons=true&theme=dracula)
 <div>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="py">
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="html">
