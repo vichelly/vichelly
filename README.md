@@ -1,6 +1,5 @@
-## Olá! Eu sou o Vitor Lucas Fujita Felício 🖐️
-
-### Tecnologias que eu uso no meu dia a dia <hr>
+## Vitor Lucas 
+<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vichelly&layout=compact&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) <br> <hr>
 ![Vichelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=vichelly&show_icons=true&theme=dracula)
 <div>
